@@ -1,1 +1,1 @@
-"# Receta" 
+# Receta 
