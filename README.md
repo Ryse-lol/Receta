@@ -1,1 +1,2 @@
-# Receta 
+# Receta
+Costrcion de sofwart
